@@ -1,0 +1,43 @@
+{
+  "version_name": "1.10.1",
+  "version_code": 1101,
+  "update_type": "patch",
+  "update_mode": "force",
+  "force_days": 3,
+  "maintenance": false,
+  "text": {
+    "id": {
+      "maintenance": "Server sedang maintenance. Silakan tunggu.",
+      "update_title": "Pembaruan Tersedia",
+      "patch_title": "Pembaruan Patch",
+      "force_warning": "Pembaruan wajib dalam beberapa hari.",
+      "session_close": "Versi ini sudah tidak didukung. Silakan update untuk melanjutkan.",
+      "update_button": "Perbarui",
+      "cancel_button": "Batal"
+    },
+    "en": {
+      "maintenance": "Server is under maintenance. Please wait.",
+      "update_title": "Update Available",
+      "patch_title": "Patch Update",
+      "force_warning": "Update is required soon.",
+      "session_close": "This version is no longer supported. Please update to continue.",
+      "update_button": "Update",
+      "cancel_button": "Cancel"
+    },
+    "pt": {
+      "maintenance": "O servidor está em manutenção. Aguarde.",
+      "update_title": "Atualização Disponível",
+      "patch_title": "Atualização de Patch",
+      "force_warning": "Atualização obrigatória em breve.",
+      "session_close": "Esta versão não é mais suportada. Atualize para continuar.",
+      "update_button": "Atualizar",
+      "cancel_button": "Cancelar"
+    }
+  },
+  "changelog": {
+    "id": "• Perbaikan crash\n• Stabilitas meningkat",
+    "en": "• Crash fixes\n• Improved stability",
+    "pt": "• Correções de falhas\n• Estabilidade melhorada"
+  },
+  "apk_url": "https://github.com/TianModzDev/REPO/raw/main/WhatsApp_TianModzID.apk"
+}
