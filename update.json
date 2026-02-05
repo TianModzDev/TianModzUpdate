@@ -1,8 +1,8 @@
 {
-  "version_name": "1.10.1",
-  "version_code": 1101,
+  "version_name": "1.10.0",
+  "version_code": 1100,
   "update_type": "patch",
-  "update_mode": "force",
+  "update_mode": "patch",
   "force_days": 3,
   "maintenance": false,
   "text": {
